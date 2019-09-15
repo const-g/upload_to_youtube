@@ -1,6 +1,6 @@
 # upload_to_youtube
 
-This python script is used to upload a video on Youtube from command line.
+This python script is used to upload a video on Youtube from command line. The code is from Google's doc, with minor additions to suit my needs.
 
 # First steps
 
